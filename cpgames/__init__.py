@@ -1,4 +1,4 @@
-
+'''title'''
 __title__ = 'cpgames'
 '''description'''
 __description__ = 'Games: Create interesting games in pure python'
