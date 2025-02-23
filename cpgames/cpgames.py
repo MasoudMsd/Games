@@ -1,11 +1,4 @@
-'''
-Function:
-    Python小游戏合集
-Author:
-    Charles
-微信公众号:
-    Charles的皮卡丘
-'''
+
 import sys
 import warnings
 from PyQt5.QtWidgets import QApplication
