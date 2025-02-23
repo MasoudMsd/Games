@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img src="./docs/logo.png" width="600"/>
+</div>
+<br />
 
 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://cpgames.readthedocs.io/zh/latest/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/cpgames)](https://pypi.org/project/cpgames/)
