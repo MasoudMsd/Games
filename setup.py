@@ -1,4 +1,13 @@
-
+'''
+Function:
+    setup the cpgames
+Author:
+    Charles
+微信公众号:
+    Charles的皮卡丘
+GitHub:
+    https://github.com/CharlesPikachu
+'''
 import cpgames
 from setuptools import setup, find_packages
 
